@@ -1,0 +1,37 @@
+﻿@page
+@model BookMGMT.Pages.BookEditModel
+@{
+}
+
+<div  class="container">
+    <div>
+        @Model.message
+    </div>
+
+    <form method="post">
+        <div class="card p-3">
+            <div class="row">
+                <div class="col">
+                    <label class="form-label">ISBN</label>
+                    <input class="form-control" name="isbn" value="@Model.book.Isbn" readonly/>
+                </div>
+                <div class="col">
+                    <label class="form-label">Title</label>
+                    <input class="form-control" name="title" value="@Model.book.Title" />
+                </div>
+                <div class="col">
+                    <label class="form-label">Author</label>
+                    <input class="form-control" name="author" value="@Model.book.Author" />
+                </div>
+            </div>
+            <div class="">
+                <label class="form-label">Summary of the book</label>
+                <textarea class="form-control" name="summary" rows="5">@Model.book.Summary</textarea>
+            </div>
+
+            <div class="mt-2">
+                <button type="submit" class="btn btn-primary">Update Book</button>
+            </div>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\pages\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\pages\\bookedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\pages\\bookadd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookadd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\pages\\bookedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\pages\\bookdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\pages\\booklist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\booklist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\bayingana\\downloads\\bookmgmt\\bookmgmt\\bookmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookList.cshtml.cs",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookList.cshtml.cs",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookList.cshtml.cs",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookList.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:28:52.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Program.cs",
+              "RelativeDocumentMoniker": "BookMGMT\\Program.cs",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Program.cs",
+              "RelativeToolTip": "BookMGMT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:19:06.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookDelete.cshtml",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookDelete.cshtml",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookDelete.cshtml",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:16:29.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookEdit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookEdit.cshtml.cs",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookEdit.cshtml.cs",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookEdit.cshtml.cs",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookEdit.cshtml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwDkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:49:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookEdit.cshtml",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookEdit.cshtml",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookEdit.cshtml",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:49:47.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookList.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookList.cshtml",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookList.cshtml",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookList.cshtml",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookList.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:13:35.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookAdd.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookAdd.cshtml.cs",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookAdd.cshtml.cs",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\BookAdd.cshtml.cs",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookAdd.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:32:44.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookMGMT\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:23:18.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\appsettings.json",
+              "RelativeDocumentMoniker": "BookMGMT\\appsettings.json",
+              "ToolTip": "C:\\Users\\BAYINGANA\\Downloads\\BookMGMT\\BookMGMT\\BookMGMT\\appsettings.json",
+              "RelativeToolTip": "BookMGMT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T16:07:48.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

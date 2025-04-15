@@ -1,0 +1,36 @@
+﻿@page
+@model BookMGMT.Pages.BookListModel
+@{
+}
+
+<h2>Book List</h2>
+
+<div class="card p-4">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ISBN</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Sumarry</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model.myBookList)
+            {
+                <tr>
+                    <td>@book.Isbn</td>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.Summary</td>
+                    <td>    
+                        <div class="row">
+                            <a href="BookEdit?isbn=@book.Isbn" class="col">Edit</a>
+							<a href="BookDelete?isbn=@book.Isbn" class="col">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

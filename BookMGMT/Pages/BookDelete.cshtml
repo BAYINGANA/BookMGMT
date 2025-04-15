@@ -1,0 +1,23 @@
+﻿@page
+@using Microsoft.Data.SqlClient;
+@{
+	String isbn = Request.Query["isbn"];
+	string connString = "Data Source=HER\\NEWINSTANCE;Initial Catalog=BookMgt;Integrated Security=True;TrustServerCertificate=True";
+
+	string message = "";
+	using (SqlConnection conn = new SqlConnection(connString))
+	{
+		conn.Open();
+		string deleteQuery = "DELETE FROM Book WHERE ISBN = @v_isbn";
+		using (SqlCommand cmd = new SqlCommand(deleteQuery, conn))
+		{
+			cmd.Parameters.AddWithValue("@v_isbn", isbn);
+			int rowsAffected = cmd.ExecuteNonQuery();
+			if (rowsAffected >= 1)
+			{
+				Response.Redirect("/BookList");
+			}
+		}
+		conn.Close();
+	}
+}
